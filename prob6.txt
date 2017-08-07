@@ -1,0 +1,5 @@
+QUESTION: Identify what keystrokes and menu options that can performed with your specific text editor. (Nano)
+
+ANSWER: Move forward one screen page (ctrl + v)
+	Move backward one screen page (ctrl + y)
+	etc...

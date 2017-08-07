@@ -1,0 +1,4 @@
+QUESTION: Describe how a Unix machine software is desgined and developed differnetly. Name atleast 2 ways.
+
+ANSWER: The first way is that Unix machines are heavily dependent on command line operating. The second way is that Unix is all open source. This means anyone 
+can edit it and 'personalize' it.

@@ -1,0 +1,5 @@
+QUESTION: Why must a program be compiled for debugging? What two things do a compiler do to assist a debugger?
+
+ANSWER: When a program is executed in the debugger, the compiler leaves the code exactly how is as opposed to optimizing it. This allows the programmer do see 
+exact location of error. The second thing that is helpful is that the debugger can show variables at different times of the code. This can help with errors like 
+dividing by zero.

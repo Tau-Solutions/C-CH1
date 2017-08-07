@@ -1,0 +1,4 @@
+QUESTION: Breifly describe two operations a debugger can perform.
+
+ANSWER: The 'step' operator takes the user through each line of code one by one. Loops are repeated and show whole iteration. The 'continue' operator works by 
+setting a breakpoint and continues until that breakpoint is found.

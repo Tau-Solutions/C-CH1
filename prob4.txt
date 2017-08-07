@@ -1,0 +1,4 @@
+QUESTION: Name atleast two ways an IDE can assist over a generic text processor.
+
+ANSWER: One way that IDE's can help are in the assistance of syntax. Certain IDE's will match braces and perform indentation for the programmer. Another way 
+they can help is by giving a crash error. As opposed to having a program crash without any explanation, IDE's can give a basic error report to troubleshoot. 

@@ -1,0 +1,8 @@
+QUESTION: You are tasked with writing a program that manages contact info. Program should save the first name, last name, and telephone num for 12 people. Give 
+user option to add a a user, delete a user, update information, and display information. Describe the thought process of this project.
+
+ANSWER: I don't know if array lists are a thing in striaght C; however, in order to combat array out of bounds errors, this would be the best option. From 
+initialization, there could be three array lists set up. One for first name, one for last name, and one for phone numbers. These would all be Strings. The 
+program then prompts the user for input to manipulate the arrays. For example, if input is equal to 1, the program will then know the user wants to add a 
+customer. If array lists are not relevant, we can define the max size and fill the rest of the arrays with null string. If a user wants to add a user, it would 
+write over the null strings and vice versa for deletion.
