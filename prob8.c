@@ -8,7 +8,6 @@ int main()
 	
 	int x;
 	int  original;
-	int test;
 	int flag;
 	int countUp = 0;
 	int countDown = 0;
